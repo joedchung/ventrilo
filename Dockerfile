@@ -9,6 +9,8 @@ RUN curl -s "http://iweb.dl.sourceforge.net/project/ventrilovoip/ventrilo_srv-3.
 RUN tar -zxf /tmp/ventrilo.tgz -C /opt
 
 ADD ventrilo_srv.ini /opt/ventsrv/ventrilo_srv.ini
+ADD ventrilo_srv.chn /opt/ventsrv/ventrilo_srv.chn
+ADD ventrilo_srv.usr /opt/ventsrv/ventrilo_srv.usr
 ADD logrotate.conf /etc/logrotate.d/ventrilo
 
 VOLUME /opt/ventsrv
