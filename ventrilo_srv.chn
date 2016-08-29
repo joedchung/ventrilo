@@ -1,14 +1,90 @@
-[Questing]
-Phonetic=Questing1
-PassChan=
-PassAdmin=Carmichael
+
+[Quest 1]
+
+Phonetic=Quest 1
+EncPassChan=
+Comment=
+AllowRecording=1
+AllowCrossChannelXmit=1
+AllowPaging=1
+AllowWaveBinds=1
+AllowTtsBinds=1
+AllowU2U=1
+RestrictToUsr=0
+DisableSoundEvts=0
+VoiceMode=0
+TimeLimit=0
+PhantomMode=1
+MaxClients=0
+AllowGuestToJoin=1
+ExemptFromInactivity=0
+ProtMode=0
+RankLevel=0
+
+
+[Quest 2]
+
+Phonetic=Quest 2
+EncPassChan=
+Comment=
+AllowRecording=1
+AllowCrossChannelXmit=1
+AllowPaging=1
+AllowWaveBinds=1
+AllowTtsBinds=1
+AllowU2U=1
+RestrictToUsr=0
+DisableSoundEvts=0
+VoiceMode=0
+TimeLimit=0
+PhantomMode=1
+MaxClients=0
+AllowGuestToJoin=1
+ExemptFromInactivity=0
+ProtMode=0
+RankLevel=0
+
 
 [AFK]
+
 Phonetic=A F K
-PassChan=
-PassAdmin=Carmichael
+EncPassChan=
+Comment=
+AllowRecording=1
+AllowCrossChannelXmit=1
+AllowPaging=1
+AllowWaveBinds=1
+AllowTtsBinds=1
+AllowU2U=1
+RestrictToUsr=0
+DisableSoundEvts=0
+VoiceMode=0
+TimeLimit=0
+PhantomMode=1
+MaxClients=0
+AllowGuestToJoin=1
+ExemptFromInactivity=0
+ProtMode=0
+RankLevel=0
 
 [Other Games]
+
 Phonetic=Other Games
-PassChan=
-PassAdmin=Carmichael
+EncPassChan=
+Comment=
+AllowRecording=1
+AllowCrossChannelXmit=1
+AllowPaging=1
+AllowWaveBinds=1
+AllowTtsBinds=1
+AllowU2U=1
+RestrictToUsr=0
+DisableSoundEvts=0
+VoiceMode=0
+TimeLimit=0
+PhantomMode=1
+MaxClients=0
+AllowGuestToJoin=1
+ExemptFromInactivity=0
+ProtMode=0
+RankLevel=0
